@@ -1,18 +1,13 @@
-# NGSI Type Browser widget
+# NGSI Registration Browser widget
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/visualization.svg)](https://www.fiware.org/developers/catalogue/)
-![](https://img.shields.io/github/license/wirecloud-fiware/ngsi-subscription-browser-widget.svg)
+![](https://img.shields.io/github/license/wirecloud-fiware/ngsi-registration-browser-widget.svg)
 
-The NGSI Type Browser [WireCloud widget](http://wirecloud.readthedocs.org/en/latest/) allows you to browser the entities
-types used in a given
+The NGSI Registration Browser [WireCloud widget](http://wirecloud.readthedocs.org/en/latest/) allows you to browse
+the registrations used in a given
 [Orion Context Broker](http://catalogue.fiware.org/enablers/publishsubscribe-context-broker-orion-context-broker) server
-in a easy and paginated way. This is done using the `contextTypes` querys, so updates made into the context broker are
-not reflected immediately when using this widget.
-
-> Latest version of this widget is always provided in
-> [FIWARE Lab](https://store.lab.fiware.org/search/keyword/OrionStarterKit) where you can make use of it on the
-> [Mashup portal](https://mashup.lab.fiware.org). Remember to take a look into the example mashups provided in the
-> OrionStarterKit offering.
+in a easy and paginated way. This is done using the List Registrations querys, so updates made into the context broker
+are not reflected immediately when using this widget.
 
 ## Build
 

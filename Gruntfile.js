@@ -154,7 +154,7 @@ module.exports = function (grunt) {
 
     grunt.registerTask('test', [
         'eslint',
-        //'jasmine:coverage'
+        // 'jasmine:coverage'
     ]);
 
     grunt.registerTask('build', [

@@ -1,13 +1,3 @@
-## v1.0.3
+## v1.0.0 (2019-12-01)
 
-- New Reload Endpoint
-
-## v1.0.2 (2017-12-07)
-
-Bugfix release
-
-- Refresh subscription list on subscription delete
-
-## v1.0.1 (2017-11-22)
-
-Initial NGSI subscription browser widget based on NGSIv2.
+Initial NGSI Registration browser widget based on NGSIv2.
